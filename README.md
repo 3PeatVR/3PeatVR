@@ -4,11 +4,9 @@
 
 I am Ariel Sillam, a 23 years old MEng student at CentraleSupélec, Paris-Saclay University. I am currently during my Gap Year as Full stack developper at Wiremind in Paris.
 
-I am currently looking for a 6-month internship in DevOps/Backend development.
-
 I like to build creative and innovative solutions to various problems 💡 but I also love to make fun projects 🃏 (that can be completly overkill ...)
 
-Whether it's optimizing infrastructure, automating workflows, or crafting clean code, I'm always looking for the next challenge 🌱. I love to learn new things every day about various technologies ⚡.
+Whether it's optimizing infrastructure, automating workflows, or crafting clean code, I'm always looking for the next challenge 🌱. I love to learn new things every day about a lot of different technologies ⚡.
 
 ## 🔍 My fields of interests
 
