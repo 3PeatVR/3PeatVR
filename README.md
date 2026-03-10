@@ -2,7 +2,7 @@
 
 ## 🚀 About me
 
-I am Ariel Sillam, a 23 years old MEng student at CentraleSupélec, Paris-Saclay University. I am currently during my Gap Year as Full stack developper at Wiremind in Paris.
+I am Ariel Sillam, a 23 years old MEng student at CentraleSupélec, Paris-Saclay University. I am currently during my Gap Year a Full stack developper at CargoAI in Singapore.
 
 I like to build creative and innovative solutions to various problems 💡 but I also love to make fun projects 🃏 (that can be completly overkill ...)
 
