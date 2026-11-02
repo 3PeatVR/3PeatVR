@@ -31,6 +31,7 @@ Whether it's optimizing infrastructure, automating workflows, or crafting clean 
 
 Here is a list of some projects that I am proud of:
 
+- 🎮 [Project G](https://github.com/3PeatVR/Project-G) A NES Emulator written in Rust
 - 🐳 [Padocker](https://github.com/3PeatVR/Padocker) A "clone" of Docker entirely written in Rust
 - 🎥 [Movies Presentation](https://github.com/3PeatVR/Movies-Presentation) A frontend library displaying movies, using [TMDB API](https://developer.themoviedb.org/docs/getting-started) and React.
 
